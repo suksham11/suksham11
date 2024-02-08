@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **sukshamk170@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Whfzo-CmcGMv9yFJsAHKUwkyx9C2rN9qqZ_pqRWqkUk/edit](https://docs.google.com/document/d/1Whfzo-CmcGMv9yFJsAHKUwkyx9C2rN9qqZ_pqRWqkUk/edit)
-
 - ⚡ Fun fact **Little bit greedy for programming**
 
 <h3 align="left">Connect with me:</h3>
