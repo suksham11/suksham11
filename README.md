@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **codsoft**
 
-- 🌱 I’m currently learning **typescript Next.js and React Native**
+- 🌱 I’m currently learning ** Next.js and MERN **
 
 - 👯 I’m looking to collaborate on **LinkedIn**
 
