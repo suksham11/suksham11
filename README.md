@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **LinkedIn**
 
-- 💬 Ask me about **Next.js C++ Python JavaScript HTML CSS**
+- 💬 Ask me about **MERN Next.js C++ Python JavaScript HTML CSS**
 
 - 📫 How to reach me **sukshamk170@gmail.com**
 
