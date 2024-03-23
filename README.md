@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sukshamk170@gmail.com**
 
-- ⚡ Fun fact **Little bit greedy for programming**
+- ⚡ **enjoying coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
