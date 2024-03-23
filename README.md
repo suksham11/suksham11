@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **codsoft**
 
-- 🌱 I’m currently practicing ** Next.js and MERN **
+- 🌱 I’m currently learning ** Flutter **
 
 - 👯 I’m looking to collaborate on **LinkedIn**
 
