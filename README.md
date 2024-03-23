@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Suksham</h1>
-<h3 align="center">A passionate Fullstack web developer from India</h3>
+<h3 align="center">Fullstack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suksham11&label=Profile%20views&color=0e75b6&style=flat" alt="suksham11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suksham11" alt="suksham11" /></a> </p>
 
-- 🔭 I’m currently working on **codsoft**
+- 🔭 I worked on **codsoft**
 
-- 🌱 I’m currently learning ** Flutter **
+- 🌱 I’m  learning ** Flutter **
 
 - 👯 I’m looking to collaborate on **LinkedIn**
 
