@@ -7,7 +7,7 @@
 
 - 🔭 I worked on **codsoft**
 
-- 🌱 I’m  learning ** Flutter **
+- 🌱 I’m  learning ** web3 **
 
 - 👯 I’m looking to collaborate on **LinkedIn**
 
