@@ -7,8 +7,6 @@
 
 - 🔭 I worked on **codsoft**
 
-- 🌱 I’m  learning ** web3 **
-
 - 👯 I’m looking to collaborate on **LinkedIn**
 
 - 💬 Ask me about **MERN Next.js C++ Python JavaScript HTML CSS**
