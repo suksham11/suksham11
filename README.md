@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suksham11" alt="suksham11" /></a> </p>
 
-- 🔭 I worked on **codsoft**
 
 - 👯 Connect me on **LinkedIn**
 
