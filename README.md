@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **MERN Next.js C++ Python JavaScript HTML CSS**
 
-- 📫 How to reach me **sukshamk170@gmail.com**
+- 📫 mail me through - **sukshamk170@gmail.com**
 
-- ⚡ **enjoying coding**
+- ⚡ enjoying coding
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
