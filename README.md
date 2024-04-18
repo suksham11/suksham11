@@ -13,7 +13,7 @@
 
 - 📫 mail me through - **sukshamk170@gmail.com**
 
-- ⚡ enjoying coding
+- ⚡ **enjoying coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
