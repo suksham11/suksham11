@@ -7,9 +7,9 @@
 
 - 🔭 I worked on **codsoft**
 
-- 👯 I’m looking to collaborate on **LinkedIn**
+- 👯 Connect me on **LinkedIn**
 
-- 💬 Ask me about **MERN Next.js C++ Python JavaScript HTML CSS**
+- 💬 Technologies I know **MERN Next.js C++ Python JavaScript HTML CSS**
 
 - 📫 mail me through - **sukshamk170@gmail.com**
 
