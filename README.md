@@ -4,7 +4,7 @@
 
 - 👯 Connect me on **LinkedIn**
 
-- 💬 Technologies I know **MERN Next.js C++ Python JavaScript HTML CSS**
+- 💬 Ask me about **MERN Next.js C++ Python JavaScript HTML CSS**
 
 - 📫 How to reach me **sukshamk170@gmail.com**
 
