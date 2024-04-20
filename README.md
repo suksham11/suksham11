@@ -4,11 +4,11 @@
 
 - 🎓 Second year student pursuing a Bachelor's degree in Computer Science Engineering, with a passion for web development and App Development.
 
-- 🌱 Actively learning and staying updated with the latest trends and advancements in web development through online courses and tutorials.
+- 🌱 Actively learning and staying updated with the latest trends and advancements in web development.
 
-- 👯 Connect me on **LinkedIn**
+- 👯 Connect me on **LinkedIn**.
 
-- 💬  Experienced in  technologies like **MERN Next.js C++ Python JavaScript HTML CSS**
+- 💬  Experienced in  technologies like **MERN Next.js C++ Python JavaScript HTML CSS**.
 
 - 📫 Let's connect! Feel free to reach out to me via email **sukshamk170@gmail.com** 
 
