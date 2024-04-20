@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Suksham</h1>
+
 <h3 align="center">Fullstack web developer from India</h3>
 
+-🎓 Second year student pursuing a Bachelor's degree in Computer Science Engineering, with a passion for web development and App Development.
+
+.🌱 Actively learning and staying updated with the latest trends and advancements in web development through online courses and tutorials.
 
 - 👯 Connect me on **LinkedIn**
 
-- 💬 Ask me about **MERN Next.js C++ Python JavaScript HTML CSS**
+- 💬  Experienced in  technologies like **MERN Next.js C++ Python JavaScript HTML CSS**
 
-- 📫 How to reach me **sukshamk170@gmail.com**
+- 📫 Let's connect! Feel free to reach out to me via email **sukshamk170@gmail.com** 
 
 - ⚡ **enjoying coding**
 
