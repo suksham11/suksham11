@@ -2,9 +2,9 @@
 
 <h3 align="center">Fullstack web developer from India</h3>
 
--🎓 Second year student pursuing a Bachelor's degree in Computer Science Engineering, with a passion for web development and App Development.
+- 🎓 Second year student pursuing a Bachelor's degree in Computer Science Engineering, with a passion for web development and App Development.
 
-.🌱 Actively learning and staying updated with the latest trends and advancements in web development through online courses and tutorials.
+- 🌱 Actively learning and staying updated with the latest trends and advancements in web development through online courses and tutorials.
 
 - 👯 Connect me on **LinkedIn**
 
