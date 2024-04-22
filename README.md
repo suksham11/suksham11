@@ -4,7 +4,7 @@
 
 - 🎓 Second year student pursuing a Bachelor's degree in Computer Science Engineering, with a passion for web development and App Development.
 
-- 🌱 Actively learning and staying updated with the latest trends and advancements in web development.
+- 🌱 Actively learning web3 and staying updated with the latest trends and advancements in web development.
 
 - 👯 Connect me on **LinkedIn**.
 
