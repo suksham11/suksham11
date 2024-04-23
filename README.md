@@ -2,15 +2,13 @@
 
 <h3 align="center">Fullstack web developer from India</h3>
 
-- 🎓 Second year student pursuing a Bachelor's degree in Computer Science Engineering, with a passion for web development and App Development.
-
-- 🌱 Actively learning web3 and staying updated with the latest trends and advancements in web development.
+- 🌱 learning web3 and staying updated with the latest trends and advancements in web development.
 
 - 👯 Connect me on **LinkedIn**.
 
 - 💬  Experienced in  technologies like **MERN Next.js C++ Python JavaScript HTML CSS**.
 
-- 📫 Let's connect! Feel free to reach out to me via email **sukshamk170@gmail.com** 
+- 📫 How to reach me **sukshamk170@gmail.com** 
 
 - ⚡ **enjoying coding**
 
