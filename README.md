@@ -2,8 +2,6 @@
 
 <h3 align="center">Fullstack web developer from India</h3>
 
-- 🌱 learning web3 and staying updated with the latest trends and advancements in web development.
-
 - 👯 Connect me on **LinkedIn**.
 
 - 💬  Experienced in  technologies like **MERN Next.js C++ Python JavaScript HTML CSS**.
