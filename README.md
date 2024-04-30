@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suksham11&label=Profile%20views&color=0e75b6&style=flat" alt="suksham11" /> </p>
 <h1 align="center">Hi 👋, I'm Suksham</h1>
 
-<h3 align="center">Fullstack web developer from India</h3>
+<h3 align="center">Fullstack web developer in delhi</h3>
 
 - 👯 Connect me on **LinkedIn**.
 
