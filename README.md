@@ -3,8 +3,6 @@
 
 <h3 align="center">Fullstack web developer in delhi</h3>
 
-- 👯 Connect me on **LinkedIn**.
-
 - 💬  Experienced in  technologies like **MERN Next.js C++ Python JavaScript HTML CSS**.
 
 - 📫 How to reach me **sukshamk170@gmail.com** 
