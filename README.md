@@ -27,5 +27,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suksham11&theme=dark" alt="suksham11" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suksham11&show_icons=true&locale=en&layout=compact&theme=dark" alt="suksham11" /></p>
 
-<h3 style="background-color: white; color: black; padding: 5px 10px; display: inline-block;">Github Trophies</h3>
+<h3 align="left"><span style="color:white">Github Trophies</span></h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suksham11&theme=onedark" alt="suksham11" /></a> </p>
