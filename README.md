@@ -1,12 +1,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suksham11&label=Profile%20views&color=0e75b6&style=flat" alt="suksham11" /> </p>
 <h1 align="center">Hi 👋, I'm Suksham</h1>
 
-<h1 align="center">Hi 👋, I'm Suksham</h1> 
-<h3 align="center">Fullstack web developer from Delhi</h3> 
-<p align="center"> - 🔭 I'm currently working as a Fullstack developer<br> -
-💬 Experienced in technologies like **MERN, Next.js, C++, Python, JavaScript, HTML, CSS**.<br> - 
-📫 How to reach me **sukshamk170@gmail.com**<br> - 
-⚡ **enjoying coding** </p>
+ <h3 align="center">Fullstack web developer from delhi</h3>
+
+- 🔭  I’m currently working as Fullstack developer
+
+- 💬  Experienced in  technologies like **MERN Next.js C++ Python JavaScript HTML CSS**.
+
+- 📫 How to reach me **sukshamk170@gmail.com** 
+
+- ⚡ **enjoying coding**
+
 
 
 
