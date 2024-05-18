@@ -25,6 +25,7 @@
 <span style="color:white">Github Stats</span>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suksham11&show_icons=true&locale=en&theme=dark" alt="suksham11" /></p> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suksham11&theme=dark" alt="suksham11" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suksham11&show_icons=true&locale=en&layout=compact" alt="suksham11" /></p>
 
 <span style="color:white">Github Trophies</span>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suksham11&theme=onedark" alt="suksham11" /></a> </p>
