@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **sukshamk170@gmail.com** 
 
-- ⚡ **enjoying coding**
+- ⚡ **enjoying coding**,
+- 😁 **Feel free to connect, looking for good opportunities**
 
 
 
