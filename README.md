@@ -7,8 +7,7 @@
 
 -  I’m currently working as Fullstack developer
 -  Experienced in  technologies like **MERN Next.js C++ Python JavaScript HTML CSS**.
--  How to reach me **sukshamk170@gmail.com**
--  Know about my experiences https://drive.google.com/file/d/1FgSrk33Q80845DxJdQwMjg3MNE6R6fr3/view?usp=drivesdk 
+-  How to reach me Sukshamk170@gmail.com 
 -  **Feel free to connect, looking for good opportunities**
 
 
