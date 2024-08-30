@@ -5,7 +5,7 @@
 
 📧 How to reach me: Sukshamk170@gmail.com
 
-🔗 Feel free to connect | Open to exciting opportunities
+🔗 Feel free to connect open to exciting opportunities
 
 
 
