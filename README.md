@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Suksham</h1>
 <h3 align="center">Fullstack and Ai developer from 🇮🇳</h3>
 
-I’m currently working as a Fullstack developer
 
 📧 How to reach me: Sukshamk170@gmail.com
 
