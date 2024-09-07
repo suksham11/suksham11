@@ -2,20 +2,17 @@
 <h1 align="center">Hi 👋, I'm Suksham</h1>
 <h3 align="center">Fullstack and Ai developer from 🇮🇳</h3>
 
+🌱 I’m currently learning many things.
 
-📧 How to reach me: Sukshamk170@gmail.com
+📧 How to reach me: Suksham8371@gmail.com
 
-🔗 Feel free to connect open to exciting opportunities
-
-
-
-
+<h4>Connect with Me</h4>
 <p align="left">
   <a href="https://twitter.com/suksham123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suksham123" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/suksham11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suksham11" height="30" width="40" /></a>
 </p>
 
-
+<h4>Languages and tools</h4>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -40,7 +37,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-
+<h4>Stats</h4>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=suksham11&show_icons=true&locale=en&theme=dark" alt="suksham11" />
