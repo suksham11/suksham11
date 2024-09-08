@@ -1,7 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suksham11&label=Profile%20views&color=0e75b6&style=flat" alt="suksham11" /> </p>
 <h1 align="center">Hi 👋, I'm Suksham</h1>
 <h3 align="center">Fullstack and Ai developer from 🇮🇳</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suksham11&label=Profile%20views&color=0e75b6&style=flat" alt="suksham11" /> </p>
-🌱 learner.
+
+🌱 learner
 
 📧 How to reach me: Suksham8371@gmail.com
 
@@ -16,10 +17,4 @@
 
 
 
-<h4>Stats</h4>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=suksham11&show_icons=true&locale=en&theme=dark" alt="suksham11" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suksham11&theme=dark" alt="suksham11" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suksham11&show_icons=true&locale=en&layout=compact&theme=dark" alt="suksham11" />
-</div>
+
