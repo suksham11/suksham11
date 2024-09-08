@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suksham</h1>
 <h3 align="center">Fullstack and Ai developer from 🇮🇳</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suksham11&label=Profile%20views&color=0e75b6&style=flat" alt="suksham11" /> </p>
-🌱 I am currently learning.
+🌱 I am currently learning
 
-📧 How to reach me: Suksham8371@gmail.com
+📧 How to reach me: Sukshamk170@gmail.com
 
 <h4>Connect with Me</h4>
 <p align="left">
