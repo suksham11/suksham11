@@ -3,7 +3,6 @@
 
 ## 💫 About Me:                                                                  
 - 🔭 I'm a **Full-Stack Web Developer**
-- 🌱 Currently I am doing  **Problem Solving**
 - 🌱 Pursuing **B.Tech**
 - 👯 I’m looking to collaborate on Full Stack projects
 - 💬 Ask me about **MERN stack and Ai**
