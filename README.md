@@ -21,6 +21,6 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=suksham11&show_icons=true&locale=en&theme=dark" alt="suksham11" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=suksham11&show_icons=true&locale=en&theme=dark" alt="suksham11" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suksham11&show_icons=true&locale=en&layout=compact&theme=dark" alt="suksham11" />
 </div>
