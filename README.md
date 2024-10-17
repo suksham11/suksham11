@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suksham</h1>
-<h3 align="center">Fullstack developer from 🇮🇳</h3>
+<h3 align="center">Fullstack and Ai developer from 🇮🇳</h3>
 
 • I am currently learning
 
