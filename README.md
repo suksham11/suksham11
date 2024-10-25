@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello my name is suksham
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Full+Stack+Developer;Always+learning+new+things;contributing+to+gssoc+and+hacktober+fest;currently+working+on+sass+app;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Full+Stack+Developer;Always+learning+new+things;contributing+to+gssoc,+hacktoberfest;currently+working+on+sass+app;" alt="Typing SVG" />
 
 Third Year CSE Student | Web and AI developer | Open Source Contributor
 
