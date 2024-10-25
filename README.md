@@ -15,7 +15,7 @@ Pre Final Year B.Tech CSE Student | Web Developer & Designer | Open Source Contr
 
 🏆 Completed the 30DaysOfGoogleCloud and Learn-to-earn-Qwiklabs program in 2023, receiving recognition and cool goodies for my achievements.
 
-🏅 Finalist in the SIH Hackathon 2023, showcasing my problem-solving skills and teamwork in a competitive environment.
+🏅 Finalist in the Dev2.0 Hackathon 2023, showcasing my problem-solving skills and teamwork in a competitive environment.
 
 📫 Let's connect! Feel free to reach out to me via [email](mailto:sukshamk170@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/suksham11/).
 
