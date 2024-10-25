@@ -3,21 +3,21 @@
 
 Pre Final Year B.Tech CSE Student | Web Developer | Open Source Contributor
 
-🎓 Pre Final year student pursuing a Bachelor's degree in Computer Science Engineering, with a passion for web development and designing.
+- Pre Final year student pursuing a Bachelor's degree in Computer Science Engineering, with a passion for web development and designing.
 
-🚀 Currently exploring Graphql and postman tools and technologies to enhance my skills in building robust and scalable web applications.
+- Currently exploring Graphql and postman tools and technologies to enhance my skills in building robust and scalable web applications.
 
-💻 Experienced in front-end technologies like HTML, CSS, JavaScript, and frameworks like React and TypeScript.
+- Experienced in front-end technologies like HTML, CSS, JavaScript, and frameworks like React and TypeScript.
 
-🌱 Actively learning and staying updated with the latest trends and advancements in web development through online courses and tutorials.
+- Actively learning and staying updated with the latest trends and advancements in web development through online courses and tutorials.
 
-🌟 Contributed to open-source projects during Hacktoberfest and Girl Summer Script of code 2024, fostering collaboration and learning within the developer community.
+- Contributed to open-source projects during Hacktoberfest and Girl Summer Script of code 2024, fostering collaboration and learning within the developer community.
 
-🏆 Completed the 30DaysOfGoogleCloud and Learn-to-earn-Qwiklabs program in 2023, receiving recognition and cool goodies for my achievements.
+- Completed the 30DaysOfGoogleCloud and Learn-to-earn-Qwiklabs program in 2023, receiving recognition and cool goodies for my achievements.
 
-🏅 Finalist in the Dev2.0 Hackathon 2023, showcasing my problem-solving skills and teamwork in a competitive environment.
+- Finalist in the Dev2.0 Hackathon 2023, showcasing my problem-solving skills and teamwork in a competitive environment.
 
-📫 Let's connect! Feel free to reach out to me via [email](mailto:sukshamk170@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/suksham11/).
+- Let's connect! Feel free to reach out to me via [email](mailto:sukshamk170@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/suksham11/).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suksham11&label=Profile%20views&color=0e75b6&style=flat" alt="suksham11" /> </p>
 
