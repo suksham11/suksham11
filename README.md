@@ -19,8 +19,6 @@ Pre Final Year B.Tech CSE Student | Web Developer & Designer | Open Source Contr
 
 🏅 Finalist in the Microsoft Azure Women Hackathon 2022, showcasing my problem-solving skills and teamwork in a competitive environment.
 
-🎵 Enjoys coding while listening to soulful songs of Arijit Singh, finding inspiration and focus in music during programming sessions.
-
 📫 Let's connect! Feel free to reach out to me via [email](mailto:sukshamk170@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/suksham11/).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suksham11&label=Profile%20views&color=0e75b6&style=flat" alt="suksham11" /> </p>
