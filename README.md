@@ -11,13 +11,11 @@ Pre Final Year B.Tech CSE Student | Web Developer & Designer | Open Source Contr
 
 🌱 Actively learning and staying updated with the latest trends and advancements in web development through online courses and tutorials.
 
-🌟 Contributed to open-source projects during Hacktoberfest 2024, fostering collaboration and learning within the developer community.
+🌟 Contributed to open-source projects during Hacktoberfest and Girl Summer Script of code 2024, fostering collaboration and learning within the developer community.
 
 🏆 Completed the 30DaysOfGoogleCloud and Learn-to-earn-Qwiklabs program in 2023, receiving recognition and cool goodies for my achievements.
 
-🎓 Proud recipient of the WEAmplify Scholarship 2022 from Harvard University for attending the WECode Conference, expanding my knowledge and networking with like-minded individuals.
-
-🏅 Finalist in the Microsoft Azure Women Hackathon 2022, showcasing my problem-solving skills and teamwork in a competitive environment.
+🏅 Finalist in the SIH Hackathon 2023, showcasing my problem-solving skills and teamwork in a competitive environment.
 
 📫 Let's connect! Feel free to reach out to me via [email](mailto:sukshamk170@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/suksham11/).
 
