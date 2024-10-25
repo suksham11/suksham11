@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suksham</h1>
 <h3 align="center">Fullstack and Ai developer from 🇮🇳</h3>
 
-• 👉Hire me👈 i am a fullstack web developer updated with latest trends and technology open to work for sde and tech roles.
+• 👉Hire me👈 
+
+I am a fullstack web developer updated with latest trends and technology open to work for sde and tech roles.
 
 • How to reach me: Suksham8371@gmail.com
 
