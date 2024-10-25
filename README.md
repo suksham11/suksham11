@@ -3,7 +3,7 @@
 
 Pre Final Year B.Tech CSE Student | Web Developer | Open Source Contributor
 
-🎓 Pre Final year student pursuing a Bachelor's degree in Computer Science Technology, with a passion for web development and designing.
+🎓 Pre Final year student pursuing a Bachelor's degree in Computer Science Engineering, with a passion for web development and designing.
 
 🚀 Currently exploring Graphql and postman tools and technologies to enhance my skills in building robust and scalable web applications.
 
