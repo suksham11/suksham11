@@ -1,7 +1,7 @@
 
 # Hello, I'm Suksham👋
 
-Pre Final Year B.Tech CSE Student | Web Developer & Designer | Open Source Contributor
+Pre Final Year B.Tech CSE Student | Web Developer | Open Source Contributor
 
 🎓 Pre Final year student pursuing a Bachelor's degree in Computer Science Technology, with a passion for web development and designing.
 
