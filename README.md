@@ -11,7 +11,6 @@ Third Year CSE Student | Web and AI developer | Open Source Contributor
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suksham11&label=Profile%20views&color=0e75b6&style=flat" alt="suksham11" /> </p>
 <h4>Stats</h4>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
