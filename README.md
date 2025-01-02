@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suksham</h1>
-Third Year CSE Student | Web developer | Open Source Contributor
+
 
 
 • I am currently working on typescript, Next.js and medusa e-commerce store
