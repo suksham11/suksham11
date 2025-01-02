@@ -2,7 +2,7 @@
 
 
 
-• I am currently working on typescript, Next.js and medusa e-commerce store
+• I am currently working on typescript, Next.js and medusa.
 
 • How to reach me: suksham8371@gmail.com
 
