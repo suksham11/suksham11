@@ -1,5 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello my name is suksham
-
+<h1 align="center">Hi 👋, I'm Suksham</h1>
 Third Year CSE Student | Web and AI developer | Open Source Contributor
 
 • I am a fullstack web developer updated with latest trends and technology open to work for sde and tech roles
