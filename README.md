@@ -8,10 +8,12 @@
 
 
 
+<details open>
+<summary>
+	
 # 📊 GitHub Stats:
 
-<details>
-<summary>Click to expand</summary>
+</summary>
 <table>
 	<tr>
 		<td colspan="2">
