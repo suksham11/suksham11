@@ -16,13 +16,6 @@
 </summary>
 <table>
 	<tr>
-		<td colspan="2">
-			<a href="https://github.com/suksham11/">
-				<img src="https://github-readme-activity-graph.vercel.app/graph?username=suksham11&bg_color=000000&hide_border=true&point=false&line=7fff00&radius=8&area=true&area_color=ddff99&title_color=ffffff&color=ffffff">
-			</a>
-		</td>
-	</tr>
-	<tr>
 		<td>
 			<a href="https://github.com/suksham11/">
 				<img src="https://github-readme-streak-stats.herokuapp.com/?user=suksham11&theme=chartreuse-dark&hide_border=false">
