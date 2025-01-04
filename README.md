@@ -46,18 +46,6 @@
 			</a>
 		</td>
 	</tr>
-	<tr>
-		<td colspan="2" style="text-align: end;">
-			<div style="display: flex; justify-content: flex-end; align-items: flex-end; width: 100%; gap: 0px;">
-				<a href="https://github.com/suksham11/" style="width: 500px; flex: 0 0 500px;">
-					<img align="left" style="width: 500px; height: auto;" src="https://wakatime.com/share/@suksham11/0d5ef149-2250-411e-ace1-b4d6a81df480.svg">
-				</a>
-				<div style="display: flex; justify-content: flex-end; align-items: flex-end;">
-					<img align="right" src="https://github.com/user-attachments/assets/541148a8-f6e1-4d57-ba34-af5090b152d3" 
-						style="height: 300px; width: auto;">
-				</div>
-			</div>
-		</td>
-	</tr>
+	
 </table>
 </details>
