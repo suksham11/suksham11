@@ -2,7 +2,7 @@
 
 
 
-• I am currently working on typescript, Next.js and medusa.
+• I have a experience of Hand on Projects
 
 • How to reach me: suksham8371@gmail.com
 
