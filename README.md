@@ -2,7 +2,7 @@
 
 
 
-• I have a experience of Hand on Projects
+• I have a experience of Hand on Project
 
 • How to reach me: suksham8371@gmail.com
 
