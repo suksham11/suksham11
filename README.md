@@ -14,15 +14,6 @@ Hi there! I'm **Suksham Kashyap**, a passionate self-taught developer and comput
 
 ---
 
-## 🚀 Goals
-
-- 🔭 Contribute to impactful open-source projects
-- 🧠 Deepen my knowledge in **Machine Learning** and **System Design**
-- 💼 Secure an internship at a product-based company
-- 🏆 Participate in more **coding contests** and **hackathons**
-
----
-
 ## 🌱 Currently Learning
 
 - 📘 **Advanced DSA**
