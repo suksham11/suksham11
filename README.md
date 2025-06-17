@@ -20,11 +20,6 @@
 	<tr>
 		<td>
 			<a href="https://github.com/suksham11/">
-				<img src="https://github-readme-streak-stats.herokuapp.com/?user=suksham11&theme=chartreuse-dark&hide_border=false">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/suksham11/">
 				<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suksham11&theme=chartreuse_dark">
 			</a>
 		</td>
@@ -41,7 +36,6 @@
 			</a>
 		</td>
 	</tr>
-	
 </table>
 
 
