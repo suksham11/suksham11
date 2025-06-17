@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi there! I'm **Suksham Kashyap**, a passionate self-taught developer and computer science enthusiast currently pursuing B.Tech in Computer Science and Engineering. I love turning ideas into real-world applications using code and constantly strive to learn new technologies and improve my skills.
+Hi there! I'm **Suksham**, a passionate self-taught developer and computer science enthusiast currently pursuing B.Tech in Computer Science and Engineering. I love turning ideas into real-world applications using code and constantly strive to learn new technologies and improve my skills.
 
 ---
 
@@ -31,13 +31,7 @@ Hi there! I'm **Suksham Kashyap**, a passionate self-taught developer and comput
 
 ---
 
-## 🧠 Fun Fact
-
-I believe **consistency beats motivation**—whether it's coding daily, learning new things, or improving bit by bit. I'm not just building projects; I'm building myself.
-
----
-
-📫 **Let's connect**:  
+ 
 
 
 
