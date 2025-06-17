@@ -14,15 +14,6 @@ Hi there! I'm **Suksham**, a passionate self-taught developer and computer scien
 
 ---
 
-## 🌱 Currently Learning
-
-- 📘 **Advanced DSA**
-- 📗 **Deep Learning & TensorFlow**
-- 📙 **Linux internals**
-- 📕 **Backend scaling and deployment**
-
----
-
 ## 🛠️ Tech Stack
 
 - 💻 Languages: C++, Python, JavaScript, HTML/CSS
